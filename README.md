@@ -1,7 +1,7 @@
 # Arduino × Max 인터랙티브 미디어 워크숍
 
-**멘토링 대상:** YBH  
-**환경:** Arduino Uno R3 + Max/MSP 9 (일부 Max 8)  
+**멘토링 주최:** 중앙대학교 하드웨어 동아리 CECOM 임병현
+**환경:** Arduino Uno R3 + Max/MSP 9
 **시리얼 통신:** 9600 baud, 커스텀 바이트 프로토콜
 
 ---
